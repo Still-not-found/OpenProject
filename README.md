@@ -22,3 +22,9 @@ $ sudo wget -O /etc/apt/sources.list.d/openproject.list https://dl.packager.io/s
 Once the OpenProject repo is added we can install the package using the apt command. For that run:
 $ sudo apt update
 $ sudo apt install openproject
+
+OpenProject Configuration
+After successfully installing OpenProject, we need to configure it using the wizard that is installed along with the package. To start the wizard run:
+
+$ sudo openproject configure
+During initial configuration, you need to choose the edition type one is the default edition which is for general project management, and another BIM that is especially for the construction industry. So, I will go with default as we will be using it for project management.
