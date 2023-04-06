@@ -71,6 +71,8 @@ Initial Configuration.
 
 After the edition type is selected we need to configure the data. As the OpenProject uses Postgresql for the database, the wizard will manage the local installation of the database. If you have a configured database you can go with the existing Postgresql database. I have installed Postgresql on my system so I will go with the installation which is managed by wizard automatically.
 
+![MasterHead](https://vitux.com/wp-content/uploads/word-image-62.jpeg?ezimgfmt=ng:webp/ngcb10)
+
 Open Project is an open-source application for project management that is completely web-based written in Ruby on Rails and Angular js. It provides agile as well as classical management for the entire project life-cycle. Generally, the open project is distributed in three versions: community, cloud, and enterprise edition. In this article, we will install a community version of the open project that is released under the General Public License Version 3. To demonstrate the example I have used the Ubuntu 20.04 LTS system.
 
 Adding OpenProject Repository & Installation.
