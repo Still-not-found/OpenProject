@@ -113,7 +113,10 @@ Advertisement
 Postgresql database setup.
 
 Next, you need to install and configure the apache2 web server to access OpenProject externally. If you want to manually set up the web server you can simply select skip. The OpenProject handles the web server installation as extra dialog will appear requesting domain name and SSL certificate location (optional) if you choose to install via the wizard.
-Install Apache web server
+
+![MasterHead](https://vitux.com/wp-content/uploads/word-image-63.jpeg?ezimgfmt=ng:webp/ngcb10)
+
+### Install Apache web server
 
 Apache2 Server setup.
 
