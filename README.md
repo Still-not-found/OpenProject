@@ -162,7 +162,7 @@ If you wish to set up an email sender for the open project you can choose either
 
 SMTP configuration
 
-Mail server setup.
+#### Mail server setup.
 
 Lastly, OpenProject relies on caching so it’s better to install the local Memcached server for better performance.
 
@@ -174,9 +174,9 @@ After you hit enter OpenProject will start the set up according to your configur
 OpenProject Dashboard
 Once everything is set up you can browse the OpenProject homepage from where you can log in. As I have locally installed it I will be accessing it through my network IP. initially the login of the OpenProject is,
 
-Username: admin
+    $ Username: admin
 
-Password: admin
+    $ Password: admin
 
 OpenProject dashboard
 
