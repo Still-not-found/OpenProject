@@ -1,7 +1,7 @@
 # OpenProject
 This is just an Installation guide of OpenProject in Ubuntu/debian.
 
-# How to install OpenProject on Ubuntu 20.04
+## How to install OpenProject on Ubuntu 20.04
  
    Open Project is an open-source application for project management that is completely web-based written in Ruby on Rails and Angular js. It provides agile as well as classical management for the entire project life-cycle. Generally, the open project is distributed in three versions: community, cloud, and enterprise edition. In this article, we will install a community version of the open project that is released under the General Public License Version 3. To demonstrate the example I have used the Ubuntu 20.04 LTS system.
 
