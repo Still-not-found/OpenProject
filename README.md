@@ -33,11 +33,13 @@ After successfully installing OpenProject, we need to configure it using the wiz
     $ sudo openproject configure
     
 During initial configuration, you need to choose the edition type one is the default edition which is for general project management, and another BIM that is especially for the construction industry. So, I will go with default as we will be using it for project management.
+
 ![MasterHead](https://vitux.com/wp-content/uploads/word-image-61.jpeg?ezimgfmt=ng:webp/ngcb10)
 
 ## Initial Configuration.
 
 After the edition type is selected we need to configure the data. As the OpenProject uses Postgresql for the database, the wizard will manage the local installation of the database. If you have a configured database you can go with the existing Postgresql database. I have installed Postgresql on my system so I will go with the installation which is managed by wizard automatically.
+
 ![MasterHead](https://vitux.com/wp-content/uploads/word-image-62.jpeg?ezimgfmt=ng:webp/ngcb10)
 
 # Install PostgreSQL
@@ -79,6 +81,7 @@ Enable SSL
 #### SSL configuration.
 
 Next, you will be asked if you want to install the subversion repository and git in succession. I will simply skip subversion and install git as I will be using it.
+
 ![MasterHead](https://vitux.com/wp-content/uploads/word-image-67.jpeg?ezimgfmt=ng:webp/ngcb10)
 
 #### Subversion repository setup.
@@ -89,7 +92,8 @@ Next, you will be asked if you want to install the subversion repository and git
 #### Git repository setup.
 
 If you choose to install you will ask if you want to change the directory to host git repositories. If you want you can change or go with the default.
-(https://vitux.com/wp-content/uploads/word-image-69.jpeg?ezimgfmt=ng:webp/ngcb10)
+
+![MasterHead](https://vitux.com/wp-content/uploads/word-image-69.jpeg?ezimgfmt=ng:webp/ngcb10)
 
 #### Git repository path.
 Again, you will be asked if you want to change the path for git HTTP backend CGI. You can go with default if you want.
