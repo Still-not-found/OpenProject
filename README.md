@@ -135,4 +135,5 @@ On the first login, you will be prompted to change the password of the admin log
 Change password
 
 # Conclusion
-In this article, we learn how we can install OpenProject in our Ubuntu system. I hope this article helps you to set up OpenProject.
+I think you have learnt how we can install OpenProject in our Ubuntu system. I hope this article helps you to set up OpenProject.In case of any doubts
+you can ask me .....Thankyou
