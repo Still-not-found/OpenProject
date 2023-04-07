@@ -85,6 +85,7 @@ Next, you will be asked if you want to install the subversion repository and git
 ![MasterHead](https://vitux.com/wp-content/uploads/word-image-67.jpeg?ezimgfmt=ng:webp/ngcb10)
 
 #### Subversion repository setup.
+
 ![MasterHead](https://vitux.com/wp-content/uploads/word-image-68.jpeg?ezimgfmt=ng:webp/ngcb10)
 
 # Add GIT support
