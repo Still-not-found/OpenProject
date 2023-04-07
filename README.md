@@ -105,7 +105,7 @@ Again, you will be asked if you want to change the path for git HTTP backend CGI
 
 If you wish to set up an email sender for the open project you can choose either Sendmail or SMTP for email sending. As of now, I don’t need email sending so I simply skip it.
 
-(https://vitux.com/wp-content/uploads/word-image-71.jpeg?ezimgfmt=ng:webp/ngcb10)
+![MasterHead](https://vitux.com/wp-content/uploads/word-image-71.jpeg?ezimgfmt=ng:webp/ngcb10)
 
 SMTP configuration
 
