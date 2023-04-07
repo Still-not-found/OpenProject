@@ -126,11 +126,11 @@ Once everything is set up you can browse the OpenProject homepage from where you
 
     $ Password: admin
     
-   (https://vitux.com/wp-content/uploads/word-image-73-1024x383.jpeg?ezimgfmt=ng:webp/ngcb10)
+   ![MasterHead](https://vitux.com/wp-content/uploads/word-image-73-1024x383.jpeg?ezimgfmt=ng:webp/ngcb10)
 
 On the first login, you will be prompted to change the password of the admin login. Once you change the admin password you will be redirected to the OpenProject dashboard where you can create a project.
 
-(https://vitux.com/wp-content/uploads/word-image-74-1024x410.jpeg?ezimgfmt=ng:webp/ngcb10)
+![MasterHead](https://vitux.com/wp-content/uploads/word-image-74-1024x410.jpeg?ezimgfmt=ng:webp/ngcb10)
 
 Change password
 
