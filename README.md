@@ -113,7 +113,7 @@ SMTP configuration
 
 Lastly, OpenProject relies on caching so it’s better to install the local Memcached server for better performance.
 
-(https://vitux.com/wp-content/uploads/word-image-72.jpeg?ezimgfmt=ng:webp/ngcb10)
+![MasterHead](https://vitux.com/wp-content/uploads/word-image-72.jpeg?ezimgfmt=ng:webp/ngcb10)
 
 # Install memcached
 #### Memcached server setup.
