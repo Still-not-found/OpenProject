@@ -65,11 +65,13 @@ In this article, I want to host locally so I will access it through my local IP 
 
 You can specify the server path prefix where your OpenProject instance will be run for example if you set the prefix to /openproject your OpenProject will be run on your domain.com/openproject. You need to specify the prefix with the leading slash(/). If you set the prefix empty it will run on your root of the domain such as your domain.com/. Then, I want to go with the default so I will continue with the empty prefix.
 Server path prefix.
+
 ![MasterHead](https://vitux.com/wp-content/uploads/word-image-65.jpeg?ezimgfmt=ng:webp/ngcb10)
 
 ##### Server path prefix.
 
 If you have a valid SSL certificate you can enable SSL for your OpenProject otherwise, you can simply skip it. I don’t have one so I will select no.
+
 ![MasterHead](https://vitux.com/wp-content/uploads/word-image-66.jpeg?ezimgfmt=ng:webp/ngcb10)
 
 Enable SSL
@@ -78,31 +80,33 @@ Enable SSL
 
 Next, you will be asked if you want to install the subversion repository and git in succession. I will simply skip subversion and install git as I will be using it.
 ![MasterHead](https://vitux.com/wp-content/uploads/word-image-67.jpeg?ezimgfmt=ng:webp/ngcb10)
-Add SVN support
 
 #### Subversion repository setup.
 ![MasterHead](https://vitux.com/wp-content/uploads/word-image-68.jpeg?ezimgfmt=ng:webp/ngcb10)
+
 # Add GIT support
 
 #### Git repository setup.
 
 If you choose to install you will ask if you want to change the directory to host git repositories. If you want you can change or go with the default.
-https://vitux.com/wp-content/uploads/word-image-69.jpeg?ezimgfmt=ng:webp/ngcb10
+(https://vitux.com/wp-content/uploads/word-image-69.jpeg?ezimgfmt=ng:webp/ngcb10)
 
 #### Git repository path.
 Again, you will be asked if you want to change the path for git HTTP backend CGI. You can go with default if you want.
-https://vitux.com/wp-content/uploads/word-image-70.jpeg?ezimgfmt=ng:webp/ngcb10
+(https://vitux.com/wp-content/uploads/word-image-70.jpeg?ezimgfmt=ng:webp/ngcb10)
 
 #### CGI directory path.
 
 If you wish to set up an email sender for the open project you can choose either Sendmail or SMTP for email sending. As of now, I don’t need email sending so I simply skip it.
-https://vitux.com/wp-content/uploads/word-image-71.jpeg?ezimgfmt=ng:webp/ngcb10
+(https://vitux.com/wp-content/uploads/word-image-71.jpeg?ezimgfmt=ng:webp/ngcb10)
+
 SMTP configuration
 
 #### Mail server setup.
 
 Lastly, OpenProject relies on caching so it’s better to install the local Memcached server for better performance.
-https://vitux.com/wp-content/uploads/word-image-72.jpeg?ezimgfmt=ng:webp/ngcb10
+
+(https://vitux.com/wp-content/uploads/word-image-72.jpeg?ezimgfmt=ng:webp/ngcb10)
 
 # Install memcached
 #### Memcached server setup.
@@ -115,10 +119,12 @@ Once everything is set up you can browse the OpenProject homepage from where you
 
     $ Password: admin
     
-    https://vitux.com/wp-content/uploads/word-image-73-1024x383.jpeg?ezimgfmt=ng:webp/ngcb10
+   (https://vitux.com/wp-content/uploads/word-image-73-1024x383.jpeg?ezimgfmt=ng:webp/ngcb10)
 
 On the first login, you will be prompted to change the password of the admin login. Once you change the admin password you will be redirected to the OpenProject dashboard where you can create a project.
-https://vitux.com/wp-content/uploads/word-image-74-1024x410.jpeg?ezimgfmt=ng:webp/ngcb10
+
+(https://vitux.com/wp-content/uploads/word-image-74-1024x410.jpeg?ezimgfmt=ng:webp/ngcb10)
+
 Change password
 
 # Conclusion
