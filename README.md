@@ -25,26 +25,25 @@ In Ubuntu 18.04
 Once the OpenProject repo is added we can install the package using the apt command. For that run:
     $ sudo apt update
     $ sudo apt install openproject
+    
 ### OpenProject Configuration
 After successfully installing OpenProject, we need to configure it using the wizard that is installed along with the package. To start the wizard run:
 
     $ sudo openproject configure
 During initial configuration, you need to choose the edition type one is the default edition which is for general project management, and another BIM that is especially for the construction industry. So, I will go with default as we will be using it for project management.
 
-Configure OpenProject
-
-Initial Configuration.
+## Initial Configuration.
 
 After the edition type is selected we need to configure the data. As the OpenProject uses Postgresql for the database, the wizard will manage the local installation of the database. If you have a configured database you can go with the existing Postgresql database. I have installed Postgresql on my system so I will go with the installation which is managed by wizard automatically.
 Advertisement
 
 # Install PostgreSQL
 
-Postgresql database setup.
-
-Next, you need to install and configure the apache2 web server to access OpenProject externally. If you want to manually set up the web server you can simply select skip. The OpenProject handles the web server installation as extra dialog will appear requesting domain name and SSL certificate location (optional) if you choose to install via the wizard.
+Postgresql database setup. 
 
 ![MasterHead](https://vitux.com/wp-content/uploads/word-image-63.jpeg?ezimgfmt=ng:webp/ngcb10)
+
+Next, you need to install and configure the apache2 web server to access OpenProject externally. If you want to manually set up the web server you can simply select skip. The OpenProject handles the web server installation as extra dialog will appear requesting domain name and SSL certificate location (optional) if you choose to install via the wizard.
 
 ### Install Apache web server
 
