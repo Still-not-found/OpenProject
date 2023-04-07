@@ -49,6 +49,7 @@ Next, you need to install and configure the apache2 web server to access OpenPro
 ### Install Apache web server
 
 Apache2 Server setup.
+
 ![MasterHead](https://vitux.com/wp-content/uploads/word-image-63.jpeg?ezimgfmt=ng:webp/ngcb10)
 
 In this article, I want to host locally so I will access it through my local IP address. If you have a domain you can specify the domain and continue with it.
