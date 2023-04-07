@@ -98,11 +98,13 @@ If you choose to install you will ask if you want to change the directory to hos
 
 #### Git repository path.
 Again, you will be asked if you want to change the path for git HTTP backend CGI. You can go with default if you want.
-(https://vitux.com/wp-content/uploads/word-image-70.jpeg?ezimgfmt=ng:webp/ngcb10)
+
+![MasterHead](https://vitux.com/wp-content/uploads/word-image-70.jpeg?ezimgfmt=ng:webp/ngcb10)
 
 #### CGI directory path.
 
 If you wish to set up an email sender for the open project you can choose either Sendmail or SMTP for email sending. As of now, I don’t need email sending so I simply skip it.
+
 (https://vitux.com/wp-content/uploads/word-image-71.jpeg?ezimgfmt=ng:webp/ngcb10)
 
 SMTP configuration
