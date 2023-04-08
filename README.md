@@ -43,7 +43,7 @@ After the edition type is selected we need to configure the data. As the OpenPro
 
 ![MasterHead](https://vitux.com/wp-content/uploads/word-image-62.jpeg?ezimgfmt=ng:webp/ngcb10)
 
-# Install PostgreSQL
+## Install PostgreSQL
 
 #### Postgresql database setup.
 
@@ -108,7 +108,7 @@ If you wish to set up an email sender for the open project you can choose either
 
 ![MasterHead](https://vitux.com/wp-content/uploads/word-image-71.jpeg?ezimgfmt=ng:webp/ngcb10)
 
-SMTP configuration
+## SMTP configuration
 
 #### Mail server setup.
 
