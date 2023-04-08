@@ -1,4 +1,5 @@
-# OpenProject
+# OpenProject 
+
 This is just an Installation guide of OpenProject in Ubuntu/debian.
 
 ## How to install OpenProject on Ubuntu 20.04
@@ -63,7 +64,7 @@ In this article, I want to host locally so I will access it through my local IP 
 
 ![MasterHead](https://vitux.com/wp-content/uploads/word-image-64.jpeg?ezimgfmt=ng:webp/ngcb10)
 
-# Configuring Domain.
+### Configuring Domain.
 
 You can specify the server path prefix where your OpenProject instance will be run for example if you set the prefix to /openproject your OpenProject will be run on your domain.com/openproject. You need to specify the prefix with the leading slash(/). If you set the prefix empty it will run on your root of the domain such as your domain.com/. Then, I want to go with the default so I will continue with the empty prefix.
 Server path prefix.
@@ -76,7 +77,7 @@ If you have a valid SSL certificate you can enable SSL for your OpenProject othe
 
 ![MasterHead](https://vitux.com/wp-content/uploads/word-image-66.jpeg?ezimgfmt=ng:webp/ngcb10)
 
-Enable SSL
+### Enable SSL
 
 #### SSL configuration.
 
